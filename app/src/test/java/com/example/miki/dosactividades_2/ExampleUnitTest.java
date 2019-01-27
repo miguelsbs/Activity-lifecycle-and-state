@@ -1,4 +1,4 @@
-package com.example.miki.dosactividades;
+package com.example.miki.dosactividades_2;
 
 import org.junit.Test;
 

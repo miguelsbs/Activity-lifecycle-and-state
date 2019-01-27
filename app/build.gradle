@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.miki.dosactividades"
+        applicationId "com.example.miki.dosactividades_2"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
